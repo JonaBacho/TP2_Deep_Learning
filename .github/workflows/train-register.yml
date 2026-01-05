@@ -20,7 +20,7 @@ on:
         default: false
 
 env:
-  MODEL_NAME: mnist-classifier
+  MODEL_NAME: mnist-improved-classifier
   PYTHON_VERSION: "3.10"
 
 jobs:
